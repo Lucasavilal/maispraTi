@@ -7,8 +7,7 @@
 
 let alunos = [
     {
-        nome: 'Lucas',
-        nota1: 10,
+        nome: 'Lucas', nota1: 10,
         nota2: 10
     },
 
